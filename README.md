@@ -3,7 +3,7 @@
 # Hi there, I'm Aniruddha Patil 👋
 ### 🎓 VLSI & Embedded Systems Engineering Student | WCE Sangli 2031 | Low-Level Systems Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddhahp)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AniruddhaHP)
 
 ---
